@@ -6,7 +6,7 @@ Step 02 -> git init -> git remote add origin https://github.com/Md-Soliman-Ali/e
 
 Step 03 -> git add .
 
-Step 04 -> git commit -m "upload"         ; m = message
+Step 04 -> git commit -m "upload"        
 
 Step 05 -> git branch -M main
 
