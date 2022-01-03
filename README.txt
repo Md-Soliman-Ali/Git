@@ -1,4 +1,4 @@
-# Git Process
+## Git Process
 
 Step 01 -> IDE -> Terminal 
 
@@ -12,7 +12,7 @@ Step 05 -> git branch -M main
 
 Step 06 -> git push origin main
 
-# Update Process
+## Update Process
 
 Step 07 -> git stats
 
