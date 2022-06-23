@@ -1,27 +1,27 @@
-# Git Process
+## Git Process
 
 Step 01 -> IDE -> Terminal 
 
-Step 02 -> git init -> git remote add origin https://github.com/Md-Soliman-Ali/example.git
+Step 02 -> git init 
 
-Step 03 -> git add .
+Step 03 -> -> git remote add origin https://github.com/Md-Soliman-Ali/example.git
 
-Step 04 -> git commit -m "upload"        
+Step 04 -> git add .
 
-Step 05 -> git branch -M main
+Step 05 -> git commit -m "upload"        
 
-Step 06 -> git push origin main
+Step 06 -> git branch -M main
 
-```sh
+Step 07 -> git push origin main
+
 Update Process
-```
 
-Step 07 -> git stats
+Step 08 -> git stats
 
-Step 08 -> git add .
+Step 09 -> git add .
 
-Step 09 -> git stats
+Step 10 -> git stats
 
-Step 10 -> git commit -m "update"
+Step 11 -> git commit -m "update"
 
-Step 11 -> git push origin main
+Step 12 -> git push origin main
