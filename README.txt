@@ -37,6 +37,10 @@ Step 02 -> git add .
 Step 03 -> git commit -m "branch"
 Step 04 -> git push origin develop
 
+## Merge Process
+
+Step 01 (main) -> git merge develop
+
 ## Github Contributor 
 
 User One: Settings -> Collaborators -> Manage Access -> Add People (Github UserName) 
